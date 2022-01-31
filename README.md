@@ -1,3 +1,15 @@
+# FED-ney: Azure AD based Lending De-Fi with Credit Rating
+
+> based on [Azure MD](https://docs.microsoft.com/en-us/azure/active-directory/verifiable-credentials/decentralized-identifier-overview)
+
+## Microsoft decentralized identity hackathon
+
+[<img src="https://img.youtube.com/vi/BgcFzdLZr84/0.jpg" width=100%>](https://youtu.be/BgcFzdLZr84)
+
+Click on the image above to see the demonstration.
+
+Submitted to [Microsoft decentralized identity hackathon](https://devpost.com/software/fed-ney-azure-ad-based-lending-de-fi-with-credit-rating).
+
 ## Inspiration
 
 Today's De-Fi services rely on massive over-collateral. The reason why credit loans cannot be implemented in the blockchain is that there is an "easy creation of fake identity", that is, Sybil attack.
@@ -22,7 +34,7 @@ There are four main smart contracts in the FED-ney system.
 
 ![problem](./images/fig2.png)
 
-First, FED-ney contract handles basic lending requests such as `deposit`, `borrow`, and `repay`.
+FED-ney contract handles basic lending requests such as `deposit`, `borrow`, and `repay`.
 
 ### Reputation Module
 
